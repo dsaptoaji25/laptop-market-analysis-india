@@ -22,3 +22,4 @@ India's personal computing sector has evolved into a highly consolidated oligopo
 
 ## Project Deliverables
 *   **Executive Presentation:** [View Strategic Market Insights Presentation (PDF)](deliverables/Laptop_Market_India_Analysis.pdf)
+*   **Analytical Codebase:** [View Data Analysis Pipeline (Jupyter Notebook)](notebooks/Laptop_Market_Analysis_India.ipynb)
