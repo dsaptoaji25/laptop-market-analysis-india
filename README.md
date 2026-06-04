@@ -19,3 +19,6 @@ India's personal computing sector has evolved into a highly consolidated oligopo
 *   **Data Ingestion, Imputation & Engineering:** Python (Pandas, NumPy)
 *   **Exploratory Market Modeling & Visualization:** Matplotlib, Seaborn
 *   **Development Workspace:** Google Colab Environment
+
+## Project Deliverables
+*   **Executive Presentation:** [View Strategic Market Insights Presentation (PDF)](deliverables/Laptop_Market_India_Analysis.pdf)
