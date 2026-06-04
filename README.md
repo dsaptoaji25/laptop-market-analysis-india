@@ -23,6 +23,7 @@ India's personal computing sector has evolved into a highly consolidated oligopo
 ## Project Deliverables
 *   **Executive Presentation:** [View Strategic Market Insights Presentation (PDF)](deliverables/Laptop_Market_India_Analysis.pdf)
 *   **Analytical Codebase:** [View Data Analysis Pipeline (Jupyter Notebook)](notebooks/Laptop_Market_Analysis_India.ipynb)
+*   **Original Source Material:** [Access Baseline Dataset on Kaggle](https://www.kaggle.com/datasets/datawitharyan/laptops-specs-and-price-data)
 
 ## Repository Data Architecture
 *   **Raw Dataset:** Located in `data/raw/` containing the baseline market snapshot.
